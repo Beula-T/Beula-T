@@ -1,8 +1,9 @@
 <div align="center">
 
 <!-- 1. HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=T.%20Beula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Python%20%26%20Flask%20Enthusiast&descAlignY=62&descSize=16" alt="header banner"/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=T.%20Beula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Python%20%26%20Flask%20Enthusiast&descAlignY=62&descSize=16" width="100%" alt="header banner"/>
+</p>
 <!-- 2. TYPING HEADER -->
 <a href="https://github.com/aswath_tamilan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Developer;Python+%7C+Flask+%7C+MySQL+Enthusiast;MCA+Student+at+University+of+Madras;Building+Scalable+Web+Applications" alt="Typing SVG" />
