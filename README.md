@@ -1,5 +1,38 @@
 <!-- ================= 1. HERO BANNER ================= -->
-![Header banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=T%20Beula&fontSize=42&fontColor=fff&fontAlignY=32&desc=Software%20Developer%20%7C%20Python%20%26%20Flask&descAlignY=62&descSize=16)
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#70A5FD"/>
+      <stop offset="100%" stop-color="#38ef7d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="180" fill="url(#bg)"/>
+
+  <path d="M0,140 C150,110 300,170 450,140 C600,110 750,170 900,140 L900,180 L0,180 Z"
+        fill="url(#wave)" opacity="0.35">
+    <animate attributeName="d"
+      values="M0,140 C150,110 300,170 450,140 C600,110 750,170 900,140 L900,180 L0,180 Z;
+               M0,150 C150,175 300,115 450,150 C600,175 750,115 900,150 L900,180 L0,180 Z;
+               M0,140 C150,110 300,170 450,140 C600,110 750,170 900,140 L900,180 L0,180 Z"
+      dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="450" y="80" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+        font-size="42" font-weight="700" fill="#ffffff">
+    T. Beula
+  </text>
+
+  <text x="450" y="115" text-anchor="middle" font-family="Fira Code, Consolas, monospace"
+        font-size="16" fill="#9fd8ff">
+    Software Developer | Python &amp; Flask
+  </text>
+</svg>
 <!-- ================= 2. TYPING HEADER ================= -->
 <p align="center">
   <a href="https://github.com/aswath_tamilan">
