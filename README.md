@@ -87,8 +87,6 @@ if __name__ == "__main__":
   <img src="https://github-profile-trophy.vercel.app/?username=your-username&no-frame=true&no-bg=true&theme=tokyonight" />
 </p>
 
-<p align="center"><i>⚠️ Note: these widgets are placeholders pointing at <code>your-username</code>. Swap in your actual GitHub username so the stats, streak, activity graph, and trophies pull your real data.</i></p>
-
 ---
 
 ### 🚀 Featured Project
