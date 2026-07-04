@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-informational?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
-<p align="center"><i>⚠️ Note: replace <code>your-username</code> in the badges/widgets below with your real GitHub username, and update the LinkedIn URL — your resume only listed link labels, not full URLs.</i></p>
-
 ---
 
 ### 💻 About Me — in code
