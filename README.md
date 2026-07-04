@@ -139,7 +139,7 @@ my professional journey.
 
 | Certification | Issued By |
 |---|---|
-| React.js | Cambtech Training and Placement Pvt. Ltd. |
+| React.js | Cambtech Training and Placement Pvt. Ltd. |Spaces
 | Java Full Stack | Besant Technologies |
 
 </div>
