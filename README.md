@@ -1,36 +1,17 @@
-<!-- ================= 1. HERO BANNER ================= -->
-![Header banner](<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="50%" stop-color="#203a43"/>
-      <stop offset="100%" stop-color="#2c5364"/>
-    </linearGradient>
-    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#70A5FD"/>
-      <stop offset="100%" stop-color="#38ef7d"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="180" fill="url(#bg)"/>
-  <path d="M0,140 C150,110 300,170 450,140 C600,110 750,170 900,140 L900,180 L0,180 Z"
-        fill="url(#wave)" opacity="0.35">
-    <animate attributeName="d"
-      values="M0,140 C150,110 300,170 450,140 C600,110 750,170 900,140 L900,180 L0,180 Z;
-               M0,150 C150,175 300,115 450,150 C600,175 750,115 900,150 L900,180 L0,180 Z;
-               M0,140 C150,110 300,170 450,140 C600,110 750,170 900,140 L900,180 L0,180 Z"
-      dur="6s" repeatCount="indefinite"/>
-  </path>
-  <text x="450" y="80" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
-        font-size="42" font-weight="700" fill="#ffffff">
-    T. Beula
-  </text>
-  <text x="450" y="115" text-anchor="middle" font-family="Fira Code, Consolas, monospace"
-        font-size="16" fill="#9fd8ff">
-    Software Developer | Python &amp; Flask
-  </text>
-</svg>)
+<!-- ================= 1. HERO BANNER (embedded, no external file/service) ================= -->
 <p align="center">
-  <a href="https://linkedin.com/in/aswath-tamilan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDkwMCAxODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzBmMjAyNyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzIwM2E0MyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMyYzUzNjQiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9IndhdmUiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzcwQTVGRCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzOGVmN2QiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgoKICA8cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjE4MCIgZmlsbD0idXJsKCNiZykiLz4KCiAgPHBhdGggZD0iTTAsMTQwIEMxNTAsMTEwIDMwMCwxNzAgNDUwLDE0MCBDNjAwLDExMCA3NTAsMTcwIDkwMCwxNDAgTDkwMCwxODAgTDAsMTgwIFoiCiAgICAgICAgZmlsbD0idXJsKCN3YXZlKSIgb3BhY2l0eT0iMC4zNSI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJkIgogICAgICB2YWx1ZXM9Ik0wLDE0MCBDMTUwLDExMCAzMDAsMTcwIDQ1MCwxNDAgQzYwMCwxMTAgNzUwLDE3MCA5MDAsMTQwIEw5MDAsMTgwIEwwLDE4MCBaOwogICAgICAgICAgICAgICBNMCwxNTAgQzE1MCwxNzUgMzAwLDExNSA0NTAsMTUwIEM2MDAsMTc1IDc1MCwxMTUgOTAwLDE1MCBMOTAwLDE4MCBMMCwxODAgWjsKICAgICAgICAgICAgICAgTTAsMTQwIEMxNTAsMTEwIDMwMCwxNzAgNDUwLDE0MCBDNjAwLDExMCA3NTAsMTcwIDkwMCwxNDAgTDkwMCwxODAgTDAsMTgwIFoiCiAgICAgIGR1cj0iNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9wYXRoPgoKICA8dGV4dCB4PSI0NTAiIHk9IjgwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iU2Vnb2UgVUksIFZlcmRhbmEsIHNhbnMtc2VyaWYiCiAgICAgICAgZm9udC1zaXplPSI0MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZmZmZiI+CiAgICBULiBCZXVsYQogIDwvdGV4dD4KCiAgPHRleHQgeD0iNDUwIiB5PSIxMTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJGaXJhIENvZGUsIENvbnNvbGFzLCBtb25vc3BhY2UiCiAgICAgICAgZm9udC1zaXplPSIxNiIgZmlsbD0iIzlmZDhmZiI+CiAgICBTb2Z0d2FyZSBEZXZlbG9wZXIgfCBQeXRob24gJmFtcDsgRmxhc2sKICA8L3RleHQ+Cjwvc3ZnPgo=" width="100%"/>
+</p>
+
+<!-- ================= 2. TYPING HEADER ================= -->
+<p align="center">
+  <a href="https://github.com/Beula-T">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Beula+%F0%9F%91%8B;Full-Stack+Developer+%7C+Python+%2B+Flask;MCA+Graduate+%40+University+of+Madras;Building+scalable%2C+user-friendly+web+apps" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:beulaoffical@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-informational?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
@@ -101,23 +82,23 @@ print(me.motto())
 
 <!-- ================= 5 & 6. GITHUB STATS + TOP LANGUAGES ================= -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aswath_tamilan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath_tamilan&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Beula-T&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beula-T&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <!-- ================= 7. STREAK STATS ================= -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aswath_tamilan&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Beula-T&theme=tokyonight&hide_border=true"/>
 </p>
 
 <!-- ================= 8. ACTIVITY GRAPH ================= -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswath_tamilan&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beula-T&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <!-- ================= 9. TROPHY WALL ================= -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswath_tamilan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Beula-T&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </p>
 
 ---
@@ -136,9 +117,6 @@ my professional journey.
 
 </details>
 
-> *Note: no employer/internship history was found on the source resume — replace this
-> block with real roles as soon as you have them.*
-
 ---
 
 <!-- ================= 11. FEATURED PROJECTS ================= -->
@@ -148,12 +126,9 @@ my professional journey.
 
 | Project | Stack | Description |
 |---|---|---|
-| **[Online Doctor Appointment Management System](https://github.com/aswath_tamilan)** | Python, Flask, SQLite, HTML, CSS, Bootstrap, JS | Full-stack web app with secure patient/admin login, doctor management, appointment scheduling, and a responsive booking UI backed by an SQLite database. |
+| **[Online Doctor Appointment Management System](https://github.com/Beula-T)** | Python, Flask, SQLite, HTML, CSS, Bootstrap, JS | Full-stack web app with secure patient/admin login, doctor management, appointment scheduling, and a responsive booking UI backed by an SQLite database. |
 
 </div>
-
-> *Only one project was listed on the resume. Add repo links and 1–2 more projects
-> here for a stronger portfolio impression.*
 
 ---
 
@@ -185,8 +160,9 @@ my professional journey.
 
 ---
 
+<!-- ================= FOOTER (embedded, no external file/service) ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDkwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnMiIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMyYzUzNjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMyMDNhNDMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMGYyMDI3Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJ3YXZlMiIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMzhlZjdkIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzcwQTVGRCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMTAwIiBmaWxsPSJ1cmwoI2JnMikiLz4KCiAgPHBhdGggZD0iTTAsMjAgQzE1MCw1MCAzMDAsLTEwIDQ1MCwyMCBDNjAwLDUwIDc1MCwtMTAgOTAwLDIwIEw5MDAsMCBMMCwwIFoiCiAgICAgICAgZmlsbD0idXJsKCN3YXZlMikiIG9wYWNpdHk9IjAuMzUiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iZCIKICAgICAgdmFsdWVzPSJNMCwyMCBDMTUwLDUwIDMwMCwtMTAgNDUwLDIwIEM2MDAsNTAgNzUwLC0xMCA5MDAsMjAgTDkwMCwwIEwwLDAgWjsKICAgICAgICAgICAgICAgTTAsMTAgQzE1MCwtMjAgMzAwLDQwIDQ1MCwxMCBDNjAwLC0yMCA3NTAsNDAgOTAwLDEwIEw5MDAsMCBMMCwwIFo7CiAgICAgICAgICAgICAgIE0wLDIwIEMxNTAsNTAgMzAwLC0xMCA0NTAsMjAgQzYwMCw1MCA3NTAsLTEwIDkwMCwyMCBMOTAwLDAgTDAsMCBaIgogICAgICBkdXI9IjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvcGF0aD4KPC9zdmc+Cg==" width="100%"/>
 </p>
 
 <p align="center"><i>Thanks for stopping by! Feel free to connect. 🙌</i></p>
