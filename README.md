@@ -1,5 +1,5 @@
 <!-- ================= 1. HERO BANNER ================= -->
-<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+![Header banner](<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0f2027"/>
@@ -11,9 +11,7 @@
       <stop offset="100%" stop-color="#38ef7d"/>
     </linearGradient>
   </defs>
-
   <rect width="900" height="180" fill="url(#bg)"/>
-
   <path d="M0,140 C150,110 300,170 450,140 C600,110 750,170 900,140 L900,180 L0,180 Z"
         fill="url(#wave)" opacity="0.35">
     <animate attributeName="d"
@@ -22,24 +20,15 @@
                M0,140 C150,110 300,170 450,140 C600,110 750,170 900,140 L900,180 L0,180 Z"
       dur="6s" repeatCount="indefinite"/>
   </path>
-
   <text x="450" y="80" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
         font-size="42" font-weight="700" fill="#ffffff">
     T. Beula
   </text>
-
   <text x="450" y="115" text-anchor="middle" font-family="Fira Code, Consolas, monospace"
         font-size="16" fill="#9fd8ff">
     Software Developer | Python &amp; Flask
   </text>
-</svg>
-<!-- ================= 2. TYPING HEADER ================= -->
-<p align="center">
-  <a href="https://github.com/aswath_tamilan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Beula+%F0%9F%91%8B;Full-Stack+Developer+%7C+Python+%2B+Flask;MCA+Graduate+%40+University+of+Madras;Building+scalable%2C+user-friendly+web+apps" alt="Typing SVG" />
-  </a>
-</p>
-
+</svg>)
 <p align="center">
   <a href="https://linkedin.com/in/aswath-tamilan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:beulaoffical@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
