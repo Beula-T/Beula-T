@@ -1,6 +1,5 @@
 <!-- ================= 1. HERO BANNER ================= -->
 ![Header banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariharan%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20QA%20Engineer%20-%20Manual%20and%20Automation%20Testing&descAlignY=62&descSize=16)
-
 <!-- ================= 2. TYPING HEADER ================= -->
 <p align="center">
   <a href="https://github.com/aswath_tamilan">
