@@ -1,5 +1,5 @@
 <!-- ================= 1. HERO BANNER ================= -->
-![Header banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=T.%20Beula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Python%20%26%20Flask&descAlignY=62&descSize=16)
+![Header banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=T%20Beula&fontSize=42&fontColor=fff&fontAlignY=32&desc=Software%20Developer%20%7C%20Python%20%26%20Flask&descAlignY=62&descSize=16)
 <!-- ================= 2. TYPING HEADER ================= -->
 <p align="center">
   <a href="https://github.com/aswath_tamilan">
