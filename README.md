@@ -1,24 +1,24 @@
-<div align="center">
-
-<!-- 1. HERO BANNER -->
+<!-- ================= 1. HERO BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=T.%20Beula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Python%20%26%20Flask%20Enthusiast&descAlignY=62&descSize=16" width="100%" alt="header banner"/>
-</p>
-<!-- 2. TYPING HEADER -->
-<a href="https://github.com/aswath_tamilan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Developer;Python+%7C+Flask+%7C+MySQL+Enthusiast;MCA+Student+at+University+of+Madras;Building+Scalable+Web+Applications" alt="Typing SVG" />
-</a>
-
-<p>
-  <a href="https://github.com/aswath_tamilan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/aswath-tamilan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:beulaoffical@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Chennai%2C%20Tamil%20Nadu-6,11,20?style=flat-square&logo=googlemaps&logoColor=white&color=333" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Beula%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Python%20%26%20Flask%20Enthusiast%20%7C%20MCA%20Graduate&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
-</div>
+<!-- ================= 2. TYPING HEADER ================= -->
+<p align="center">
+  <a href="https://github.com/aswath_tamilan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Beula+%F0%9F%91%8B;Full-Stack+Developer+%7C+Python+%2B+Flask;MCA+Graduate+%40+University+of+Madras;Building+scalable%2C+user-friendly+web+apps" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- 3. CODE-BLOCK ABOUT ME -->
+<p align="center">
+  <a href="https://linkedin.com/in/aswath-tamilan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:beulaoffical@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-informational?style=flat-square&logo=googlemaps&logoColor=white"/>
+</p>
+
+---
+
+<!-- ================= 3. CODE-BLOCK ABOUT ME ================= -->
 ```python
 class Beula:
     def __init__(self):
@@ -26,145 +26,148 @@ class Beula:
         self.location = "Chennai, Tamil Nadu, India"
         self.degree = "MCA @ University of Madras (2024 - 2026)"
         self.role = "Aspiring Software Developer"
-
-        self.stack = {
-            "languages": ["Java", "JavaScript", "Python"],
-            "frontend": ["HTML5", "CSS3", "Bootstrap"],
-            "backend": ["Flask"],
-            "databases": ["MySQL", "SQLite"],
-            "tools": ["Git", "GitHub", "VS Code"]
-        }
-
+        self.stack = [
+            "Python", "Flask", "Java", "JavaScript",
+            "HTML5", "CSS3", "Bootstrap", "MySQL", "SQLite"
+        ]
         self.currently_learning = ["React.js", "Java Full Stack Development"]
         self.fun_fact = "I turn real-world problems into full-stack web apps."
 
     def motto(self):
-        return "Learn. Build. Deploy. Repeat."
+        return "Learn. Build. Ship. Repeat."
 
 
-if __name__ == "__main__":
-    me = Beula()
-    print(me.motto())
+me = Beula()
+print(me.motto())
 ```
 
-<!-- 4. TECH BADGES -->
-<div align="center">
+---
 
-### 🧑‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<!-- ================= 4. TECH BADGES ================= -->
+### 🛠️ Tech Stack
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
-### ⚙️ Backend & Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</p>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+</p>
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
 
-</div>
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
 
-<!-- 5 & 6. GITHUB STATS + TOP LANGUAGES -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aswath_tamilan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath_tamilan&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+---
 
-<!-- 7. STREAK STATS -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aswath_tamilan&theme=tokyonight&hide_border=true" />
-</div>
+<!-- ================= 5 & 6. GITHUB STATS + TOP LANGUAGES ================= -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aswath_tamilan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath_tamilan&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<!-- 8. ACTIVITY GRAPH -->
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aswath_tamilan&theme=tokyo-night&hide_border=true" />
-</div>
+<!-- ================= 7. STREAK STATS ================= -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aswath_tamilan&theme=tokyonight&hide_border=true"/>
+</p>
 
-<!-- 9. TROPHY WALL -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswath_tamilan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
+<!-- ================= 8. ACTIVITY GRAPH ================= -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswath_tamilan&theme=tokyo-night&hide_border=true"/>
+</p>
 
-<!-- 10. EXPERIENCE & TRAINING -->
-## 💼 Experience & Training
+<!-- ================= 9. TROPHY WALL ================= -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aswath_tamilan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+</p>
 
-> No formal industry work experience yet — currently building real-world skills through hands-on projects and structured training programs.
+---
+
+<!-- ================= 10. WORK EXPERIENCE ================= -->
+### 💼 Experience
 
 <details>
-<summary><b>🎓 Java Full Stack Training — Besant Technologies</b></summary>
+<summary><b>🎓 Fresh Graduate — Open to Opportunities</b></summary>
 <br/>
 
-- Completed structured training covering Java-based full-stack development.
-- Strengthened backend fundamentals to complement web development skill set.
+No formal work experience yet — currently completing my MCA and building hands-on
+skills through full-stack projects, certifications, and continuous self-learning.
+Actively looking for a **Software Developer / Full-Stack Developer** role to begin
+my professional journey.
 
 </details>
 
-<details>
-<summary><b>🎓 React.js Training — Cambtech Training and Placement Pvt. Ltd.</b></summary>
-<br/>
+> *Note: no employer/internship history was found on the source resume — replace this
+> block with real roles as soon as you have them.*
 
-- Learned component-based UI development using React.js.
-- Building toward integrating React with existing Flask/Python backend skills.
+---
 
-</details>
-
-<!-- 11. FEATURED PROJECTS -->
-## 🚀 Featured Projects
+<!-- ================= 11. FEATURED PROJECTS ================= -->
+### 🚀 Featured Projects
 
 <div align="center">
 
 | Project | Stack | Description |
 |---|---|---|
-| **[Online Doctor Appointment Management System](https://github.com/aswath_tamilan)** | Python · Flask · SQLite · HTML · CSS · Bootstrap · JavaScript | Full-stack web app with secure patient/admin authentication, doctor management, appointment scheduling, and a responsive booking UI backed by SQLite. |
+| **[Online Doctor Appointment Management System](https://github.com/aswath_tamilan)** | Python, Flask, SQLite, HTML, CSS, Bootstrap, JS | Full-stack web app with secure patient/admin login, doctor management, appointment scheduling, and a responsive booking UI backed by an SQLite database. |
 
 </div>
 
-> 🔧 More projects are on the way — check back soon or visit my [GitHub](https://github.com/aswath_tamilan) for the latest work.
+> *Only one project was listed on the resume. Add repo links and 1–2 more projects
+> here for a stronger portfolio impression.*
 
-<!-- 12. ACHIEVEMENTS -->
-## 🏆 Certifications & Achievements
+---
+
+<!-- ================= 12. ACHIEVEMENTS ================= -->
+### 🏆 Certifications & Achievements
 
 <div align="center">
 
-| Certification | Issuing Organization |
+| Certification | Issued By |
 |---|---|
 | React.js | Cambtech Training and Placement Pvt. Ltd. |
 | Java Full Stack | Besant Technologies |
 
 </div>
 
-<!-- 13. EDUCATION + CURRENTLY LEARNING + FOOTER -->
-## 🎓 Education
+---
 
-**Master of Computer Applications (MCA)**
-Asan Memorial College of Arts and Science, University of Madras — *2024 – 2026*
+<!-- ================= 13. EDUCATION + CURRENTLY LEARNING + FOOTER ================= -->
+### 🎓 Education
 
-**Bachelor of Computer Applications (BCA)**
-Annai Velankanni Arts and Science College, Bharathidasan University — *2020 – 2023*
+- **Master of Computer Applications (MCA)** — Asan Memorial College of Arts and Science, University of Madras *(2024 – 2026)*
+- **Bachelor of Computer Applications (BCA)** — Annai Velankanni Arts and Science College, Bharathidasan University *(2020 – 2023)*
 
-## 📚 Currently Learning
+### 📚 Currently Learning
+`React.js` · `Java Full Stack Development` · `Advanced SQL`
 
-- ⚛️ React.js
-- ☕ Java Full Stack Development
+### 🤝 Soft Skills
+`Problem Solving` · `Analytical Thinking` · `Teamwork` · `Adaptability`
 
-## 🤝 Soft Skills
+---
 
-`Problem Solving` `Analytical Thinking` `Teamwork` `Adaptability`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
 
-<div align="center">
-
-📫 **Reach me:** [beulaoffical@gmail.com](mailto:beulaoffical@gmail.com) · [GitHub](https://github.com/aswath_tamilan) · [LinkedIn](https://linkedin.com/in/aswath-tamilan)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer wave"/>
-
-</div>
+<p align="center"><i>Thanks for stopping by! Feel free to connect. 🙌</i></p>
